@@ -12,6 +12,6 @@
 (function() {
     'use strict';
 
-    document.body.style.backgroundColor = 'green';
-    document.body.style.color = 'green';
+    document.body.style.backgroundColor = 'red';
+    document.body.style.color = 'red';
 })();
