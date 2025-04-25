@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Green Everything
 // @namespace    http://tampermonkey.net/
-// @version      20250426
+// @version      202504261
 // @description  Turn everything green!
 // @author       You
 // @match        https://www.google.ch/
