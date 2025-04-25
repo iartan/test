@@ -7,11 +7,12 @@
 // @match        https://www.google.ch/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.ch
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/iartan/test/refs/heads/main/tamptest.js
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    document.body.style.backgroundColor = 'red';
-    document.body.style.color = 'red';
+    document.body.style.backgroundColor = 'blue';
+    document.body.style.color = 'blue';
 })();
