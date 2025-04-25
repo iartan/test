@@ -13,6 +13,6 @@
 (function() {
     'use strict';
 
-    document.body.style.backgroundColor = 'blue';
-    document.body.style.color = 'blue';
+    document.body.style.backgroundColor = 'red';
+    document.body.style.color = 'red';
 })();
